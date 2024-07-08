@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"H1_2, H1, H2, H3, H4_3, H4_2, H4",MountingHole_2.2mm_M2-8mm,7,MountingHole,
+J1,TRRS-PJ-320A,1,TRRS,
+"K00, K01, K02, K03, K04, K05, K10, K11, K12, K13, K14, K15, K20, K21, K22, K23, K24, K25, K30, K31, K32",Kailh_socket_PG1350_optional,21,KEYSW,
+R1,1206,1,5k6,
+R2,1206,1,10k,
+U2,RPi_Pico_SMD_TH,1,Pico,
